@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="font_roman">fonts/FrutigerLTStd-Roman.otf</string>
+    <string name="font_black">fonts/FrutigerLTStd-Black.otf</string>
+    <string name="font_sftext_regular">fonts/SFText-Regular.otf</string>
+    <string name="font_sftext_semiBoldItalic">fonts/SFText-SemiboldItalic.otf</string>
+    <string name="font_sftext_semibold">fonts/SFText-Semibold.ttf</string>
+</resources>

@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Novu</string>
+    <string name="error_network">Network Error</string>
+    <string name="error_no_internet">No internet connection. Please check again!</string>
+    <string name="error_parse_json">okhttp3.internal.http.RealResponseBody</string>
+    <string name="error">Error</string>
+    <string name="error_server">Error retrieving information from server</string>
+    <string name="error_parse_type"><![CDATA[Value <!DOCTYPE of type]]></string>
+    <string name="item_image_transition_name">item_image</string>
+    <string name="item_title_transition_name">item_title</string>
+
+    //
+    <string name="login">Login</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="find_nearest_clinics">Find Nearest Clinics</string>
+    <string name="description_intro_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus \n pellentesque sodales turpis ac molestie.</string>
+    <string name="reminder">Reminder</string>
+    <string name="description_intro_2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus \n pellentesque sodales turpis ac molestie.</string>
+    <string name="photo_diary">Photo Diary</string>
+    <string name="description_intro_3">SLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus \n pellentesque sodales turpis ac molestie.</string>
+    <string name="novu">Novu</string>
+    <string name="my_packages">My Packages</string>
+    <string name="my_photo_diary">My Photo Diary</string>
+    <string name="notifications">Notifications</string>
+    <string name="more">More</string>
+    <string name="email_or_username">Email or username</string>
+    <string name="password">Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="promotions">Promotions</string>
+    <string name="news">News</string>
+    <string name="description_login">Please proceed to clinic\n\n in person to register an account. \n</string>
+    <string name="description_login_fail_one">Please proceed to clinic</string>
+    <string name="description_login_fail_two">in person to register an account.</string>
+    <string name="error_format_email">E-mail is incorrect format. Please try again!</string>
+    <string name="not_null_email">E-mail is not empty. Please try again!</string>
+    <string name="error_length_password">Please input password is more than or equal 6 letters</string>
+    <string name="treatment">Treatment</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="none">None</string>
+    <string name="read_more">Read more</string>
+
+    <string name="face">Face</string>
+    <string name="products">Products</string>
+    <string name="less_information">Less Information -</string>
+    <string name="more_information">More Information +</string>
+    <string name="locations">Locations</string>
+    <string name="photos">Photos</string>
+    <string name="home">Home</string>
+    <string name="diary">Diary</string>
+    <string name="select">Select</string>
+    <string name="pigmentation_hyperpigmentation">Pigmentation/ Hyperpigmentation</string>
+    <string name="recommended_products">Recommended Products</string>
+    <string name="user_profile">User Profile</string>
+    <string name="view_and_edit_profile">View and Edit profile</string>
+    <string name="my_gifts_2">My Gifts (2)</string>
+    <string name="saved_promotions_amp_news"><![CDATA[Saved Promotions & News]]></string>
+    <string name="skin_society">Skin Society</string>
+    <string name="about_novu">About NOVU</string>
+    <string name="feedback">Feedback</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="saved_promotions_new"><![CDATA[Saved Promotions & News]]></string>
+    <string name="change_password">Change Password</string>
+    <string name="find">Find </string>
+    <string name="nearest_clinic">nearest clinic!</string>
+    <string name="freedback">Feedback</string>
+    <string name="submit">Submit</string>
+    <string name="add_photo">Add photo</string>
+    <string name="details">Details</string>
+    <string name="feedback_about">Feedback about</string>
+    <string name="clinic_of_last_treatment">Clinic of last treatment</string>
+    <string name="date_of_last_treatment">Date of last treatment</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="email">Email</string>
+    <string name="nric">NRIC</string>
+    <string name="full_name">Full Name</string>
+    <string name="no_data_packages_title">You currently have \nno  treatments</string>
+    <string name="no_data_packages_detail">Please visit one of our  \nclinics to purchase  \ntreament packages.</string>
+    <string name="purchased">PURCHASED</string>
+    <string name="past_package">PAST PACKAGE</string>
+    <string name="expiry">Expiry:</string>
+    <string name="thank_you_for_signing_up">Thank You for Signing Up!</string>
+    <string name="my_gifts">My Gifts</string>
+    <string name="about_us">About Us</string>
+    <string name="add_to_diary">Add to diary</string>
+    <string name="less_more">Less more</string>
+    <string name="content_change_pass">In order to be a change your password  you will need to vist us in person  \nat one of our clinics or call us direct.</string>
+    <string name="content_invalid_pass">In order to be a reset your password  you will need to vist us in person  \nat one of our clinics or call us direct.</string>
+    <string name="offers">Offers</string>
+    <string name="packages">Packages</string>
+    <string name="login_for_full_access">Login for full access</string>
+    <string name="login_here">Login here</string>
+    <string name="android">ANDROID</string>
+
+
+</resources>
